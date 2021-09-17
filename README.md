@@ -110,7 +110,7 @@ postgres-# DROP DATABASE databasename; [delete database]
 \q [to exit postgres]
 ```
 
-#Day 3(publish and subscribe)
+# Day 3(publish and subscribe)
 ## basic
 
 ```
